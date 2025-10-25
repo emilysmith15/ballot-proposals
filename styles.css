@@ -38,7 +38,7 @@ h4{
     font-style:italic;
     font-weight: lighter;
 }
-h5{
+li{
     font-family: "Archivo Black";
     font-size:20px;
 }
@@ -82,7 +82,7 @@ h1{
 h4, h2{
     font-size:20px;
 }
-h5{
+li{
     font-size:25px;
 }
 }
